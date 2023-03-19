@@ -71,5 +71,5 @@ model Movie {
   thumbnailUrl String
   genre String
   duration String
-rating Int?
+  rating Int?
 }
